@@ -1,6 +1,4 @@
 from tabpfn import TabPFNRegressor
-# from sklearn.model_selection import train_test_split
-# from sklearn.metrics import root_mean_squared_error, mean_absolute_error, r2_score
 import sklearn
 
 def train_regression(X, y, test_size=0.33):
